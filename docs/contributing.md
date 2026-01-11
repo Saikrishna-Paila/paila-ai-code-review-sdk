@@ -8,8 +8,8 @@ Thank you for your interest in contributing to Paila SDK! This guide will help y
 
 ```bash
 # Fork on GitHub, then:
-git clone https://github.com/YOUR-USERNAME/paila.git
-cd paila
+git clone https://github.com/YOUR-USERNAME/paila-ai-code-review-sdk.git
+cd paila-ai-code-review-sdk
 ```
 
 ### 2. Set Up Development Environment

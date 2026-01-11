@@ -17,7 +17,8 @@ Created by **Saikrishna Paila**
 7. [Integrations](integrations.md)
 8. [API Reference](api-reference.md)
 9. [CLI Reference](cli-reference.md)
-10. [Contributing](contributing.md)
+10. [Project Structure](project-structure.md)
+11. [Contributing](contributing.md)
 
 ---
 
@@ -95,8 +96,8 @@ pip install paila[dev]
 
 ## Support
 
-- GitHub Issues: [github.com/saikrishnapaila/paila/issues](https://github.com/saikrishnapaila/paila/issues)
-- Documentation: [github.com/saikrishnapaila/paila/docs](https://github.com/saikrishnapaila/paila/docs)
+- GitHub Issues: [github.com/saikrishnapaila/paila-ai-code-review-sdk/issues](https://github.com/saikrishnapaila/paila-ai-code-review-sdk/issues)
+- Documentation: [github.com/saikrishnapaila/paila-ai-code-review-sdk/docs](https://github.com/saikrishnapaila/paila-ai-code-review-sdk/docs)
 
 ---
 

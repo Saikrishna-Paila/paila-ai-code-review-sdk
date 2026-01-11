@@ -25,7 +25,7 @@ pip install paila[dev]
 ### From Source
 
 ```bash
-git clone https://github.com/saikrishnapaila/paila.git
+git clone https://github.com/saikrishnapaila/paila-ai-code-review-sdk.git
 cd paila
 pip install -e .
 ```
